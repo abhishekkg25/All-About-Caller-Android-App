@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "789580683048",
+    "firebase_url": "https://master-abhig1.firebaseio.com",
+    "project_id": "master-abhig1",
+    "storage_bucket": "master-abhig1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789580683048:android:f09e11851e531662",
+        "android_client_info": {
+          "package_name": "com.automata.masterabhig.allaboutcaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789580683048-tq6nkmqlfdbueahdhmqdnfeul8h4n58a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.automata.masterabhig.allaboutcaller",
+            "certificate_hash": "caf07bdc0a47ead298734d58c91b9114a7a0248c"
+          }
+        },
+        {
+          "client_id": "789580683048-rbs7iem8bpsh1oreqgrvcr269tc0n706.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "789580683048-rbs7iem8bpsh1oreqgrvcr269tc0n706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqH-NqB1SLxnXLB1-YDFMVl_0u5yjuz38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789580683048-rbs7iem8bpsh1oreqgrvcr269tc0n706.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

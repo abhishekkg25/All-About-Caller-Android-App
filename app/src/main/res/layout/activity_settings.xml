@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context="com.automata.masterabhig.allaboutcaller.Settings">
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="57dp"
+        android:textSize="30dp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#00ff00"
+        android:text="1.Location Permission" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView9"
+        android:layout_marginTop="26dp"
+        android:textSize="30dp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#00ff00"
+        android:text="2.Storage permission" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView10"
+        android:layout_marginTop="26dp"
+        android:textSize="30dp"
+        android:textColor="#00ff00"
+        android:fontFamily="serif-monospace"
+        android:text="3.Contact permission" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView12"
+        android:layout_marginTop="26dp"
+        android:textSize="30dp"
+        android:fontFamily="serif-monospace"
+        android:textColor="#00ff00"
+        android:text="4.Telephone permission" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView14"
+        android:layout_marginTop="26dp"
+        android:textSize="30dp"
+        android:textColor="#00ff00"
+        android:fontFamily="serif-monospace"
+        android:text="5.Call log Permission" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:fontFamily="serif"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:text="Click on the permission to ON/OFF it\n\n Green-ON  Red-OFF" />
+
+
+</RelativeLayout>
